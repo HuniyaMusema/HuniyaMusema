@@ -1,6 +1,6 @@
 # Hi, I'm Husniya Musema 👋
 
-Frontend Developer | Full Stack Software Engineer
+Mobile App Developer | Full Stack Software Engineer
 
 I build responsive web applications and full-stack systems using React, JavaScript, Vite, Tailwind CSS, Laravel, Spring Boot, and Node.js.
 
